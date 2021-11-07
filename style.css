@@ -1,0 +1,23 @@
+body{
+
+    background-position: center;
+    background-size: cover;
+}
+#myCanvas
+{
+    margin-top: 10px;
+	border-width:40px;
+	background-color: blueviolet; 
+	border-style:ridge;
+	border-color: aliceblue;
+	position: fixed;
+	height:600px;
+	width:1000px;
+}
+
+h1,h4
+{
+	
+	color:red!important;
+	
+}
